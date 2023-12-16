@@ -1,0 +1,21 @@
+INFO     2023-12-16 18:00:26,472 days_parsing '1-й четверг ноября' - Ok
+INFO     2023-12-16 18:00:26,473 days_parsing '3-я среда мая' - Ok
+ERROR    2023-12-16 18:00:26,473 days_parsing '5-я среда мая' - Wrong week number of a month! Week number must be from 1 to 4 included.
+ERROR    2023-12-16 18:00:26,473 days_parsing '2-я середина мая' - Wrong name of weekday!
+ERROR    2023-12-16 18:00:26,474 days_parsing '2-я среда травня' - Wrong month name!
+ERROR    2023-12-16 18:00:26,474 days_parsing 'None' - TextToDate.__call__() missing 1 required positional argument: 'text'
+ERROR    2023-12-16 18:00:26,474 days_parsing '' - not enough values to unpack (expected 3, got 0)
+INFO     2023-12-16 18:00:56,264 days_parsing '1-й четверг ноября' - Ok
+INFO     2023-12-16 18:00:56,264 days_parsing '3-я среда мая' - Ok
+ERROR    2023-12-16 18:00:56,264 days_parsing '5-я среда мая' - Wrong week number of a month! Week number must be from 1 to 4 included.
+ERROR    2023-12-16 18:00:56,264 days_parsing '2-я середина мая' - Wrong name of weekday!
+ERROR    2023-12-16 18:00:56,264 days_parsing '2-я среда травня' - Wrong month name!
+ERROR    2023-12-16 18:00:56,266 days_parsing 'None' - TextToDate.__call__() missing 1 required positional argument: 'text'
+ERROR    2023-12-16 18:00:56,266 days_parsing '' - not enough values to unpack (expected 3, got 0)
+INFO     2023-12-16 18:05:44,680 days_parsing '1-й четверг ноября' - Ok
+INFO     2023-12-16 18:05:44,681 days_parsing '3-я среда мая' - Ok
+ERROR    2023-12-16 18:05:44,681 days_parsing '5-я среда мая' - Wrong week number of a month! Week number must be from 1 to 4 included.
+ERROR    2023-12-16 18:05:44,681 days_parsing '2-я середина мая' - Wrong name of weekday!
+ERROR    2023-12-16 18:05:44,682 days_parsing '2-я среда травня' - Wrong month name!
+ERROR    2023-12-16 18:05:44,682 days_parsing 'None' - TextToDate.__call__() missing 1 required positional argument: 'text'
+ERROR    2023-12-16 18:05:44,682 days_parsing '' - not enough values to unpack (expected 3, got 0)
